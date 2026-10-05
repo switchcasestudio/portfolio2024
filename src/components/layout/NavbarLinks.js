@@ -20,14 +20,14 @@ const NavbarLinks = () => {
       </li>
       <li>
         <a
-          href="https://github.com/Object-ions"
+          href="https://github.com/switchcasestudio"
           alt="resume"
           target="_blank"
           rel="noopener noreferrer"
           className="outer-link"
         >
           <GithubIcon size={15}/>
-          <small> : github.com/Object-ions </small>
+          <small> : github.com/switchcasestudio </small>
         </a>
       </li>
       <li>

@@ -18,7 +18,7 @@
     "description": "A Renaissance and Baroque art–inspired studio website built with React. Features GSAP-powered animations, responsive SCSS layouts, and modular components. Designed and developed as the digital home for my creative and development studio, blending classical art influence with modern web technologies.",
     "tags": ["React", "GSAP", "SCSS", "Design"],
     "live": "https://switchcasestudio.com",
-    "github": "https://github.com/Object-ions/switch-case-studio", 
+    "github": "https://github.com/switchcasestudio/switch-case-studio", 
     "images": [
       "/images/switchcase/switchcase-1.png"
     ]
@@ -31,7 +31,7 @@
 
     "tags": ["MongoDB", "Express.js", "React", "Node.js", "Redux", "JWT"],
     "live": "https://charm-avenue.onrender.com/",
-    "github": "https://github.com/Object-ions/charm-avenue",
+    "github": "https://github.com/switchcasestudio/charm-avenue",
     "images": [
       "/images/charm/charm-1.png",
       "/images/charm/charm-2.png",
@@ -54,7 +54,7 @@
       "Jelly Belly Wiki API"
     ],
     "live": "https://jelly-belly-wiki.netlify.app/",
-    "github": "https://github.com/Object-ions/Jelly_Belly_Wiki_Client",
+    "github": "https://github.com/switchcasestudio/Jelly_Belly_Wiki_Client",
     "images": [
       "/images/jbw-client/JBW-client-1.png",
       "/images/jbw-client/JBW-client-2.png"
@@ -85,7 +85,7 @@
     "description": "This React application provides an interactive exploration of the art piece - Birth of Venus, by Sandro Botticelli. Focusing on the detailed annotations and examination of the artwork. It includes a web-based interface allowing users to learn about the historical and artistic significance of the piece.",
     "tags": ["React", "JavaScript", "HTML", "SASS", "Webpack"],
     "live": ["https://birth-of-venus.netlify.app/"],
-    "github": "https://github.com/Object-ions/birth-of-venus",
+    "github": "https://github.com/switchcasestudio/birth-of-venus",
     "images": [
       "/images/birth-of-venus/venus-1.png",
       "/images/birth-of-venus/venus-2.png"
@@ -106,7 +106,7 @@
       "Swagger"
     ],
     "live": ["https://jellybellywikiapi.onrender.com/swagger/index.html"],
-    "github": "https://github.com/Object-ions/Jelly-Belly-Wiki-API",
+    "github": "https://github.com/switchcasestudio/Jelly-Belly-Wiki-API",
     "images": ["/images/jbw-api/JBW-api-1.png", "/images/jbw-api/JBW-api-2.png"]
   },
   {
@@ -142,7 +142,7 @@
       "Swagger"
     ],
     "live": ["https://animal-shelter-api.onrender.com/"],
-    "github": "https://github.com/Object-ions/AnimalShelter.Solution",
+    "github": "https://github.com/switchcasestudio/AnimalShelter.Solution",
     "images": [
       "/images/animal-shelter/animal-1.png",
       "/images/animal-shelter/animal-2.png"
@@ -166,7 +166,7 @@
       "Miro Board"
     ],
     "live": ["https://eol-app.onrender.com/"],
-    "github": "https://github.com/Object-ions/Eol.Solution",
+    "github": "https://github.com/switchcasestudio/Eol.Solution",
     "images": ["/images/eol/eol-1.png", "/images/eol/eol-2.png"]
   },
   {
@@ -183,7 +183,7 @@
       "Entity Framework Core 6.0.0"
     ],
     "live": ["https://pierres-sweet-and-savory-treats.onrender.com"],
-    "github": "https://github.com/Object-ions/SST.Solution",
+    "github": "https://github.com/switchcasestudio/SST.Solution",
     "images": ["/images/sst/sst-1.png", "/images/sst/sst-2.png"]
   },
   {
@@ -193,7 +193,7 @@
     "description": "The Vendor Order Management System is a specialized MVC web application developed using .NET. It is engineered to facilitate the management and tracking of orders from various vendors. This application stands out for its functionality and utility in simplifying complex vendor interactions. The application's features include the ability to add and manage vendors, track orders for each vendor, view detailed information about each order, and an aesthetic user interface for easy navigation and management.",
     "tags": ["C#", ".NET 6", "MSTesting", "BASH"],
     "live": ["https://vendorordertracker.onrender.com/"],
-    "github": "https://github.com/Object-ions/PierresVendorOrderTracker.Solution",
+    "github": "https://github.com/switchcasestudio/PierresVendorOrderTracker.Solution",
     "images": ["/images/vendors/vendors-1.png", "/images/vendors/vendors-2.png"]
   },
   {
@@ -203,7 +203,7 @@
     "description": "The Pig Dice Game is an interactive, two-player dice game created using HTML, CSS, and JavaScript. The game is designed to test your luck as you compete against another player to reach a total score of 100 points first. The application keeps track of the scores for each player, and the state of the game, providing an engaging and dynamic user experience. in this version, I've added new functionalities and revamped the UI to provide an even more engaging and dynamic user experience.",
     "tags": ["HTML", "CSS", "JavaScript"],
     "live": "https://pig-dice-de6ee6.netlify.app/",
-    "github": "https://github.com/Object-ions/Pig-Dice?tab=readme-ov-file",
+    "github": "https://github.com/switchcasestudio/Pig-Dice?tab=readme-ov-file",
     "images": [
       "/images/pig-dice/pig-dice-1.png",
       "/images/pig-dice/pig-dice-2.png"
@@ -225,7 +225,7 @@
       "Perenual API"
     ],
     "live": "https://plant-professor-105523.netlify.app/",
-    "github": "https://github.com/Object-ions/Plant-Professor",
+    "github": "https://github.com/switchcasestudio/Plant-Professor",
     "images": ["/images/plant-api/plant-1.png", "/images/plant-api/plant-2.png"]
   },
   {
@@ -243,7 +243,7 @@
       "ExchangeRate-API"
     ],
     "live": "https://currency-exchange-a25790.netlify.app/",
-    "github": "https://github.com/Object-ions/Currency-Exchanger",
+    "github": "https://github.com/switchcasestudio/Currency-Exchanger",
     "images": [
       "/images/exchange/exchange-1.png",
       "/images/exchange/exchange-2.png"
@@ -255,8 +255,8 @@
     "title": "Pizza Parlor",
     "description": "This project is a detailed, user-friendly interface for creating a custom pizza order that demonstrates real-world functionalities of a pizza ordering system.",
     "tags": ["HTML", "CSS", "JavaScript"],
-    "live": "https://object-ions.github.io/pizzaParlor/",
-    "github": "https://github.com/Object-ions/pizzaParlor",
+    "live": "https://switchcasestudio.github.io/pizzaParlor/",
+    "github": "https://github.com/switchcasestudio/pizzaParlor",
     "images": ["/images/pizza/pizza-1.png", "/images/pizza/pizza-2.png"]
   }
 ]

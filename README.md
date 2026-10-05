@@ -37,7 +37,7 @@ Here are the primary ones:
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/Object-ions/portfolio2024.git
+git clone https://github.com/switchcasestudio/portfolio2024.git
 cd portfolio2024
 npm install
 ```
