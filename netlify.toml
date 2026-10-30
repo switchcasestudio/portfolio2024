@@ -1,0 +1,6 @@
+# moses-a.com is retired. Send every path to the current portfolio.
+[[redirects]]
+  from = "/*"
+  to = "https://switchcasestudio.com/projects"
+  status = 301
+  force = true
